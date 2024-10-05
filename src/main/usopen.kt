@@ -1,5 +1,5 @@
 class usopen {
 
-    String A;
+    String A11;
 
 }
